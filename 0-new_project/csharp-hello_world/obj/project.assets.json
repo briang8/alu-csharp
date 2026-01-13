@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\kobet\\Documents\\ARVR\\alu-csharp\\0-new_project\\0-new_project.csproj",
-      "projectName": "0-new_project",
-      "projectPath": "C:\\Users\\kobet\\Documents\\ARVR\\alu-csharp\\0-new_project\\0-new_project.csproj",
+      "projectUniqueName": "C:\\Users\\kobet\\Documents\\ARVR\\alu-csharp\\0-new_project\\csharp-hello_world\\csharp-hello_world.csproj",
+      "projectName": "csharp-hello_world",
+      "projectPath": "C:\\Users\\kobet\\Documents\\ARVR\\alu-csharp\\0-new_project\\csharp-hello_world\\csharp-hello_world.csproj",
       "packagesPath": "C:\\Users\\kobet\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\kobet\\Documents\\ARVR\\alu-csharp\\0-new_project\\obj\\",
+      "outputPath": "C:\\Users\\kobet\\Documents\\ARVR\\alu-csharp\\0-new_project\\csharp-hello_world\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\kobet\\AppData\\Roaming\\NuGet\\NuGet.Config"
