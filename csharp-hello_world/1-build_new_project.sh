@@ -1,9 +1,4 @@
 #!/usr/bin/env bash
-DIR="1-new_project"
+dotnet new console -o 1-new_project
 
-if [ -d "$DIR" ]; then
-  rm -rf "$DIR"
-fi
-dotnet new console -o "$DIR"
-
-dotnet build "$DIR"
+dotnet build 1-new_project
