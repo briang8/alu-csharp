@@ -8,19 +8,19 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\kobet\\.nuget\\packages\\": {}
+    "/home/briang/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\kobet\\Documents\\ARVR\\alu-csharp\\csharp-hello_world\\1-new_project\\1-new_project.csproj",
+      "projectUniqueName": "/home/briang/Work/ARVR/alu-csharp/csharp-hello_world/1-new_project/1-new_project.csproj",
       "projectName": "1-new_project",
-      "projectPath": "C:\\Users\\kobet\\Documents\\ARVR\\alu-csharp\\csharp-hello_world\\1-new_project\\1-new_project.csproj",
-      "packagesPath": "C:\\Users\\kobet\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\kobet\\Documents\\ARVR\\alu-csharp\\csharp-hello_world\\1-new_project\\obj\\",
+      "projectPath": "/home/briang/Work/ARVR/alu-csharp/csharp-hello_world/1-new_project/1-new_project.csproj",
+      "packagesPath": "/home/briang/.nuget/packages/",
+      "outputPath": "/home/briang/Work/ARVR/alu-csharp/csharp-hello_world/1-new_project/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\kobet\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "/home/briang/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
@@ -59,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.410\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/home/briang/dotnet/sdk/7.0.119/RuntimeIdentifierGraph.json"
       }
     }
   }

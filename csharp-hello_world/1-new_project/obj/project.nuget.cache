@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tQ7+Q37ScQW79zCQdNH2Uz+7PYgDjqA9eqr7NuD6HTXH/UN2tQV5CQLoeY7YGikdpFfeYznpwEh6vqbOWvAnww==",
+  "dgSpecHash": "Z2as1uoijbbx7H/V9PHxj1mqrxSSQYUOX2oONemuoSvWmpQlkeGazIlpzXwZ88HZfkj/15X3CmFVgrKpqkP2iQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\kobet\\Documents\\ARVR\\alu-csharp\\csharp-hello_world\\1-new_project\\1-new_project.csproj",
+  "projectFilePath": "/home/briang/Work/ARVR/alu-csharp/csharp-hello_world/1-new_project/1-new_project.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
