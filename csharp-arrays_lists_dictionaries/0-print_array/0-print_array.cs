@@ -1,9 +1,8 @@
 ﻿using System;
 
-class Array
+public class Array
 {
-
-    public static int[] CreatePrint(int size)
+    public static int?[] CreatePrint(int size)
     {
         if (size < 0)
         {
@@ -14,20 +13,18 @@ class Array
         if (size == 0)
         {
             Console.WriteLine();
-            return new int[0];
+            return new int?[0];
         }
 
-        int[] array = new int[size];
-
+        int?[] arr = new int?[size];
         for (int i = 0; i < size; i++)
         {
-            array[i] = i;
+            arr[i] = i;
+            Console.Write(i);
             if (i < size - 1)
-                Console.Write(i + " ");
-            else
-                Console.WriteLine(i);
+                Console.Write(" ");
         }
-
-        return array;
+        Console.WriteLine();
+        return arr;
     }
 }
