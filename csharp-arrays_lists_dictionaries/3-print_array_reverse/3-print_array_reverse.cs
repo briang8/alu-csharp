@@ -2,8 +2,7 @@
 
 public class Array
 {
-   
-    public static void Reverse(int[] array)
+    public static void Reverse(int[]? array)
     {
         if (array == null || array.Length == 0)
         {
@@ -17,7 +16,6 @@ public class Array
             if (i > 0)
                 Console.Write(" ");
         }
-
         Console.WriteLine();
     }
 }
