@@ -1,5 +1,4 @@
 ﻿using System;
-using System.Linq;
 
 class Array
 {
@@ -14,10 +13,10 @@ class Array
         {
             Console.WriteLine();
             Console.WriteLine($"Array Length: {size}");
-            return new int[0];
+            return new int?[0];
         }
 
-        int[] array = new int[size];
+        int?[] array = new int?[size];
         for (int i = 0; i < size; i++)
         {
             array[i] = i;
@@ -28,6 +27,6 @@ class Array
         }
         Console.WriteLine();
         Console.WriteLine($"Array Length: {size}");
-        return array.Cast<int?>().ToArray();
+        return array;
     }
 }
