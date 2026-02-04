@@ -14,7 +14,6 @@ class Array
         if (size == 0)
         {
             Console.WriteLine();
-            Console.WriteLine($"Array Length: {size}");
             return new int[0];
         }
 
@@ -29,7 +28,6 @@ class Array
                 Console.WriteLine(i);
         }
 
-        Console.WriteLine($"Array Length: {size}");
         return array;
     }
 }
