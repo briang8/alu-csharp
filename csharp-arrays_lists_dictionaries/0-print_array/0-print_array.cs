@@ -1,27 +1,33 @@
-﻿using system;
-class array
+﻿using System;
+using System.Linq;
+
+class Array
 {
     public static int?[] CreatePrint(int size)
     {
         if (size < 0)
         {
-            console.WriteLine("Size cannot be negative");
+            Console.WriteLine("Size cannot be negative");
             return null;
         }
         if (size == 0)
         {
-            console.WriteLine();
+            Console.WriteLine();
+            Console.WriteLine($"Array Length: {size}");
             return new int[0];
         }
+
         int[] array = new int[size];
         for (int i = 0; i < size; i++)
         {
             array[i] = i;
             if (i < size - 1)
-                console.Write(i + "");
+                Console.Write(i + " ");
             else
-                console.Write(i);
+                Console.Write(i);
         }
-        return array;
+        Console.WriteLine();
+        Console.WriteLine($"Array Length: {size}");
+        return array.Cast<int?>().ToArray();
     }
 }
