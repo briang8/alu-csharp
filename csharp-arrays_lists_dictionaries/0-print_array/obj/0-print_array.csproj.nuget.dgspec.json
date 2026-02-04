@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/briang/Work/ARVR/alu-csharp/csharp-arrays_lists_dictionaries/0-print_array/0-print_array/0-print_array.csproj": {}
+    "/home/briang/Work/ARVR/alu-csharp/csharp-arrays_lists_dictionaries/0-print_array/0-print_array.csproj": {}
   },
   "projects": {
-    "/home/briang/Work/ARVR/alu-csharp/csharp-arrays_lists_dictionaries/0-print_array/0-print_array/0-print_array.csproj": {
+    "/home/briang/Work/ARVR/alu-csharp/csharp-arrays_lists_dictionaries/0-print_array/0-print_array.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/briang/Work/ARVR/alu-csharp/csharp-arrays_lists_dictionaries/0-print_array/0-print_array/0-print_array.csproj",
+        "projectUniqueName": "/home/briang/Work/ARVR/alu-csharp/csharp-arrays_lists_dictionaries/0-print_array/0-print_array.csproj",
         "projectName": "0-print_array",
-        "projectPath": "/home/briang/Work/ARVR/alu-csharp/csharp-arrays_lists_dictionaries/0-print_array/0-print_array/0-print_array.csproj",
+        "projectPath": "/home/briang/Work/ARVR/alu-csharp/csharp-arrays_lists_dictionaries/0-print_array/0-print_array.csproj",
         "packagesPath": "/home/briang/.nuget/packages/",
-        "outputPath": "/home/briang/Work/ARVR/alu-csharp/csharp-arrays_lists_dictionaries/0-print_array/0-print_array/obj/",
+        "outputPath": "/home/briang/Work/ARVR/alu-csharp/csharp-arrays_lists_dictionaries/0-print_array/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/briang/.nuget/NuGet/NuGet.Config"
