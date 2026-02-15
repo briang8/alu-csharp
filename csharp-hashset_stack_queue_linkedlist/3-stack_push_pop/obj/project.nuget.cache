@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ci0RIWItszeLuqbwoHw+c6ZJRg41IiCSdOBO2W2xWzaXtZX0q2Y4psuQ//ysbERflvMbbtj/Yv/rFYvbgLuDoA==",
+  "dgSpecHash": "cLdZKS+fr7c=",
   "success": true,
-  "projectFilePath": "/home/briang/Work/ARVR/alu-csharp/csharp-hashset_stack_queue_linkedlist/3-stack_push_pop/3-stack_push_pop.csproj",
+  "projectFilePath": "\\\\wsl.localhost\\Ubuntu\\home\\briang\\Work\\ARVR\\alu-csharp\\csharp-hashset_stack_queue_linkedlist\\3-stack_push_pop\\3-stack_push_pop.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

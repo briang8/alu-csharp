@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "oY9gnHodBcKjmQb7IQHvGdP/sqTcL+TCRWnw2rKmhE1tZxxTdX19BqZY4XECc6tXmXFX2Dr/Poy52hAUJYomKQ==",
+  "dgSpecHash": "ANyOrwcp1YM=",
   "success": true,
-  "projectFilePath": "/home/briang/Work/ARVR/alu-csharp/csharp-arrays_lists_dictionaries/3-print_array_reverse/3-print_array_reverse.csproj",
+  "projectFilePath": "\\\\wsl.localhost\\Ubuntu\\home\\briang\\Work\\ARVR\\alu-csharp\\csharp-arrays_lists_dictionaries\\3-print_array_reverse\\3-print_array_reverse.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SLFghTqlBZaHWi/r7UQKc8dmXaRhdBnbEGMj1wcfCfe8a+fZ1Kll5ldT+Ic/7PyIOdD9JRHpSJNM4i9a9SYY6w==",
+  "dgSpecHash": "TC6BA5ulWak=",
   "success": true,
-  "projectFilePath": "/home/briang/Work/ARVR/alu-csharp/csharp-arrays_lists_dictionaries/2-replace_element/2-replace_element.csproj",
+  "projectFilePath": "\\\\wsl.localhost\\Ubuntu\\home\\briang\\Work\\ARVR\\alu-csharp\\csharp-arrays_lists_dictionaries\\2-replace_element\\2-replace_element.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

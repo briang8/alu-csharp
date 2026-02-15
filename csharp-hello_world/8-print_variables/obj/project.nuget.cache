@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0rsa70Uh3IYWibvV0WP3YYaHywuzpFUmewMMpvzndqeL3TBqGQAvpBHvsVmC5mn+83GVcgRvH2Ghs5L8ovQ4Hw==",
+  "dgSpecHash": "zg6XeXX6saU=",
   "success": true,
-  "projectFilePath": "/home/briang/Work/ARVR/alu-csharp/csharp-hello_world/8-print_variables/8-print_variables.csproj",
+  "projectFilePath": "\\\\wsl.localhost\\Ubuntu\\home\\briang\\Work\\ARVR\\alu-csharp\\csharp-hello_world\\8-print_variables\\8-print_variables.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

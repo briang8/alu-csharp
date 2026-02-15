@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "I6iK8ii3aN25bP4WHvw1AGkZyiGLnA48RiwrjhzxLiaf8uFo6H7y9zCBOt4ey2t6QyJvahKfjsahVe0Xv1PjBg==",
+  "dgSpecHash": "KigHne07HB4=",
   "success": true,
-  "projectFilePath": "/home/briang/Work/ARVR/alu-csharp/csharp-arrays_lists_dictionaries/11-multiply_by_2/11-multiply_by_2.csproj",
+  "projectFilePath": "\\\\wsl.localhost\\Ubuntu\\home\\briang\\Work\\ARVR\\alu-csharp\\csharp-arrays_lists_dictionaries\\11-multiply_by_2\\11-multiply_by_2.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

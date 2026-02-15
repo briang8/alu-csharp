@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DC4V21ALOEZB7OQj4qZ1ufGo3AIaVWM98kN/j1QCL1WuPgIZ1g4t8cKpYBRzN4NLRXNMgGs2koVcBd+KBdgs7w==",
+  "dgSpecHash": "OtdqG7KTO9g=",
   "success": true,
-  "projectFilePath": "/home/briang/Work/ARVR/alu-csharp/csharp-ifelse_loops_methods/1-last_digit/1-last_digit.csproj",
+  "projectFilePath": "\\\\wsl.localhost\\Ubuntu\\home\\briang\\Work\\ARVR\\alu-csharp\\csharp-ifelse_loops_methods\\1-last_digit\\1-last_digit.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

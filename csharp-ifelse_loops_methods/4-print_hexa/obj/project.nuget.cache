@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2vPgt3QVsBHDY5l2CPrA4HO5TPLMsaTSiZ4LwH3bFOokfdTEQ3Q/1s/St3Gm9Vq1DCbuCn/JsBejDxhkubFDjA==",
+  "dgSpecHash": "+nevusNrzUk=",
   "success": true,
-  "projectFilePath": "/home/briang/Work/ARVR/alu-csharp/csharp-ifelse_loops_methods/4-print_hexa/4-print_hexa.csproj",
+  "projectFilePath": "\\\\wsl.localhost\\Ubuntu\\home\\briang\\Work\\ARVR\\alu-csharp\\csharp-ifelse_loops_methods\\4-print_hexa\\4-print_hexa.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

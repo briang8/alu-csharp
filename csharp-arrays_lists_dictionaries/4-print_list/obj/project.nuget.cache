@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "OIZ1XnlOaPRZH5qUDUo7fS2xS8nZ6omdlhKtbYxIFS5m6ex1d44xuiWzDIDTn3s5ld7TzodgNtKVzrJ1T3O/eA==",
+  "dgSpecHash": "otn9Qu3Js8s=",
   "success": true,
-  "projectFilePath": "/home/briang/Work/ARVR/alu-csharp/csharp-arrays_lists_dictionaries/4-print_list/4-print_list.csproj",
+  "projectFilePath": "\\\\wsl.localhost\\Ubuntu\\home\\briang\\Work\\ARVR\\alu-csharp\\csharp-arrays_lists_dictionaries\\4-print_list\\4-print_list.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

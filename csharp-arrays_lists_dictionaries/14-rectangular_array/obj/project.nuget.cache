@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wg9x+jlzYrI1T41IX+Xg3On62NhxVDeonR8q1tXzQEM6i4TcIfFVFH1/0pnnrdKcv82whlyE5sORKibNU/8IFg==",
+  "dgSpecHash": "Vg1HI86BiJs=",
   "success": true,
-  "projectFilePath": "/home/briang/Work/ARVR/alu-csharp/csharp-arrays_lists_dictionaries/14-rectangular_array/14-rectangular_array.csproj",
+  "projectFilePath": "\\\\wsl.localhost\\Ubuntu\\home\\briang\\Work\\ARVR\\alu-csharp\\csharp-arrays_lists_dictionaries\\14-rectangular_array\\14-rectangular_array.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

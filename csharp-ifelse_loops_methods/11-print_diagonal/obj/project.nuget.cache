@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "C6i3McgsBI0pEbYqYXSMNdV2wyFYHKwC3aTBomK/C3+kjZiYm2/VAcRyKWS+UkypCMexJJqhdW/wqVWp8JQw4A==",
+  "dgSpecHash": "eM490HVobok=",
   "success": true,
-  "projectFilePath": "/home/briang/Work/ARVR/alu-csharp/csharp-ifelse_loops_methods/11-print_diagonal/11-print_diagonal.csproj",
+  "projectFilePath": "\\\\wsl.localhost\\Ubuntu\\home\\briang\\Work\\ARVR\\alu-csharp\\csharp-ifelse_loops_methods\\11-print_diagonal\\11-print_diagonal.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

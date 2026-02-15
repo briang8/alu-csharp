@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NGHsceYymf7wqjjWEvov8e3swVnQSK6zSC6BCybDi+SAHtEoq37eoI19IrqyTBeTxZwbIesAr0gg4xVTqCtuKA==",
+  "dgSpecHash": "SAJOT/JpqPk=",
   "success": true,
-  "projectFilePath": "/home/briang/Work/ARVR/alu-csharp/csharp-arrays_lists_dictionaries/13-best_score/13-best_score.csproj",
+  "projectFilePath": "\\\\wsl.localhost\\Ubuntu\\home\\briang\\Work\\ARVR\\alu-csharp\\csharp-arrays_lists_dictionaries\\13-best_score\\13-best_score.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "eMNOST/aEyqJf/CQUaNOZgukHE1/93md75/e94meGnIRCrSdAoPKba9HqVFz8rH6ndB7GJeAIW/bxGnzTCIFBg==",
+  "dgSpecHash": "pAvu6p2cfY0=",
   "success": true,
-  "projectFilePath": "/home/briang/Work/ARVR/alu-csharp/csharp-hello_world/6-print_string/6-print_string.csproj",
+  "projectFilePath": "\\\\wsl.localhost\\Ubuntu\\home\\briang\\Work\\ARVR\\alu-csharp\\csharp-hello_world\\6-print_string\\6-print_string.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

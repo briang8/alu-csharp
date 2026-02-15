@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "RTcMqvnqP/4FMOPpdhyMN2MVC8H4zDVUX+N0YhjYLOTNt68tXvNn32R0QiQxHLN1cTvnqgP834D1oKuy2tpE6g==",
+  "dgSpecHash": "xLeUYYxWPic=",
   "success": true,
-  "projectFilePath": "/home/briang/Work/ARVR/alu-csharp/csharp-hello_world/4-print_integer/4-print_integer.csproj",
+  "projectFilePath": "\\\\wsl.localhost\\Ubuntu\\home\\briang\\Work\\ARVR\\alu-csharp\\csharp-hello_world\\4-print_integer\\4-print_integer.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

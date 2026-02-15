@@ -1,25 +1,31 @@
 {
   "format": 1,
   "restore": {
-    "/home/briang/Work/ARVR/alu-csharp/csharp-arrays_lists_dictionaries/13-best_score/13-best_score.csproj": {}
+    "\\\\wsl.localhost\\Ubuntu\\home\\briang\\Work\\ARVR\\alu-csharp\\csharp-arrays_lists_dictionaries\\13-best_score\\13-best_score.csproj": {}
   },
   "projects": {
-    "/home/briang/Work/ARVR/alu-csharp/csharp-arrays_lists_dictionaries/13-best_score/13-best_score.csproj": {
+    "\\\\wsl.localhost\\Ubuntu\\home\\briang\\Work\\ARVR\\alu-csharp\\csharp-arrays_lists_dictionaries\\13-best_score\\13-best_score.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/briang/Work/ARVR/alu-csharp/csharp-arrays_lists_dictionaries/13-best_score/13-best_score.csproj",
+        "projectUniqueName": "\\\\wsl.localhost\\Ubuntu\\home\\briang\\Work\\ARVR\\alu-csharp\\csharp-arrays_lists_dictionaries\\13-best_score\\13-best_score.csproj",
         "projectName": "13-best_score",
-        "projectPath": "/home/briang/Work/ARVR/alu-csharp/csharp-arrays_lists_dictionaries/13-best_score/13-best_score.csproj",
-        "packagesPath": "/home/briang/.nuget/packages/",
-        "outputPath": "/home/briang/Work/ARVR/alu-csharp/csharp-arrays_lists_dictionaries/13-best_score/obj/",
+        "projectPath": "\\\\wsl.localhost\\Ubuntu\\home\\briang\\Work\\ARVR\\alu-csharp\\csharp-arrays_lists_dictionaries\\13-best_score\\13-best_score.csproj",
+        "packagesPath": "C:\\Users\\kobet\\.nuget\\packages\\",
+        "outputPath": "\\\\wsl.localhost\\Ubuntu\\home\\briang\\Work\\ARVR\\alu-csharp\\csharp-arrays_lists_dictionaries\\13-best_score\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "/home/briang/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\kobet\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -32,7 +38,13 @@
           "warnAsError": [
             "NU1605"
           ]
-        }
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "10.0.100"
       },
       "frameworks": {
         "net7.0": {
@@ -53,7 +65,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/home/briang/dotnet/sdk/7.0.119/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.103\\RuntimeIdentifierGraph.json"
         }
       }
     }
