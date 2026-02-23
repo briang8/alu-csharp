@@ -17,7 +17,7 @@ class List
         }
         catch (ArgumentOutOfRangeException)
         {
-            
+            // Silently catch the exception when accessing beyond list bounds
         }
 
         return count;
