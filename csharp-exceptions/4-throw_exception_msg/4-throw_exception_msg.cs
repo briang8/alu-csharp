@@ -1,9 +1,16 @@
 ﻿using System;
 
-class Except
+class Program
 {
-    public static void ThrowMsg(string msg)
+    static void Main(string[] args)
     {
-        throw new Exception(msg);
+        try
+        {
+            Except.ThrowMsg("C is fun");
+        }
+        catch (Exception e)
+        {
+            Console.WriteLine(e.Message);
+        }
     }
 }
