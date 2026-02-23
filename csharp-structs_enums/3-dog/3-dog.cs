@@ -1,13 +1,29 @@
 ﻿using System;
 
-class Program
+enum Rating
 {
-    static void Main(string[] args)
+    Good,
+    Great,
+    Excellent
+}
+
+struct Dog
+{
+    public string name;
+    public float age;
+    public string owner;
+    public Rating rating;
+
+    public Dog(string name, float age, string owner, Rating rating)
     {
-        Dog poppy;
+        this.name = name;
+        this.age = age;
+        this.owner = owner;
+        this.rating = rating;
+    }
 
-        poppy = new Dog("Poppy", 0.7f, "Kris", Rating.Excellent);
-
-        Console.WriteLine(poppy.ToString());
+    public override string ToString()
+    {
+        return string.Format("Dog Name: {0}\nAge: {1}\nOwner: {2}\nRating: {3}", name, age, owner, rating);
     }
 }
