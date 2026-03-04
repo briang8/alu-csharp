@@ -1,0 +1,5 @@
+/home/briang/Work/ARVR/alu-csharp/csharp-tdd/0-add/MyMath/obj/Debug/netstandard2.0/MyMath.csproj.AssemblyReference.cache
+/home/briang/Work/ARVR/alu-csharp/csharp-tdd/0-add/MyMath/obj/Debug/netstandard2.0/MyMath.GeneratedMSBuildEditorConfig.editorconfig
+/home/briang/Work/ARVR/alu-csharp/csharp-tdd/0-add/MyMath/obj/Debug/netstandard2.0/MyMath.AssemblyInfoInputs.cache
+/home/briang/Work/ARVR/alu-csharp/csharp-tdd/0-add/MyMath/obj/Debug/netstandard2.0/MyMath.AssemblyInfo.cs
+/home/briang/Work/ARVR/alu-csharp/csharp-tdd/0-add/MyMath/obj/Debug/netstandard2.0/MyMath.csproj.CoreCompileInputs.cache
