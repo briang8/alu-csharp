@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ql1JbESfB+o=",
+  "dgSpecHash": "b8MRu77fVunSKKgyaFcVsBWU4yvQrQTjy32D1yXoAj895RGyliSB8csCsRlscLHMVFKMsfvmLkkc8x/djA9eVQ==",
   "success": true,
-  "projectFilePath": "\\\\wsl.localhost\\Ubuntu\\home\\briang\\Work\\ARVR\\alu-csharp\\csharp-arrays_lists_dictionaries\\12-print_sorted_dictionary\\12-print_sorted_dictionary.csproj",
+  "projectFilePath": "/home/briang/Work/ARVR/alu-csharp/csharp-arrays_lists_dictionaries/12-print_sorted_dictionary/12-print_sorted_dictionary.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

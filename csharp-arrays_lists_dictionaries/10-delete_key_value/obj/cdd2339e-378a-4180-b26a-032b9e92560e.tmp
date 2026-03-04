@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/briang/Work/ARVR/alu-csharp/csharp-arrays_lists_dictionaries/5-max_integer/5-max_integer.csproj",
-      "projectName": "5-max_integer",
-      "projectPath": "/home/briang/Work/ARVR/alu-csharp/csharp-arrays_lists_dictionaries/5-max_integer/5-max_integer.csproj",
+      "projectUniqueName": "/home/briang/Work/ARVR/alu-csharp/csharp-arrays_lists_dictionaries/10-delete_key_value/10-delete_key_value.csproj",
+      "projectName": "10-delete_key_value",
+      "projectPath": "/home/briang/Work/ARVR/alu-csharp/csharp-arrays_lists_dictionaries/10-delete_key_value/10-delete_key_value.csproj",
       "packagesPath": "/home/briang/.nuget/packages/",
-      "outputPath": "/home/briang/Work/ARVR/alu-csharp/csharp-arrays_lists_dictionaries/5-max_integer/obj/",
+      "outputPath": "/home/briang/Work/ARVR/alu-csharp/csharp-arrays_lists_dictionaries/10-delete_key_value/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/briang/.nuget/NuGet/NuGet.Config"
