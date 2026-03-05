@@ -3,3 +3,9 @@
 /home/briang/Work/ARVR/alu-csharp/csharp-tdd/0-add/MyMath/obj/Debug/netstandard2.0/MyMath.AssemblyInfoInputs.cache
 /home/briang/Work/ARVR/alu-csharp/csharp-tdd/0-add/MyMath/obj/Debug/netstandard2.0/MyMath.AssemblyInfo.cs
 /home/briang/Work/ARVR/alu-csharp/csharp-tdd/0-add/MyMath/obj/Debug/netstandard2.0/MyMath.csproj.CoreCompileInputs.cache
+/home/briang/Work/ARVR/alu-csharp/csharp-tdd/0-add/MyMath/bin/Debug/netstandard2.0/MyMath.xml
+/home/briang/Work/ARVR/alu-csharp/csharp-tdd/0-add/MyMath/bin/Debug/netstandard2.0/MyMath.deps.json
+/home/briang/Work/ARVR/alu-csharp/csharp-tdd/0-add/MyMath/bin/Debug/netstandard2.0/MyMath.dll
+/home/briang/Work/ARVR/alu-csharp/csharp-tdd/0-add/MyMath/bin/Debug/netstandard2.0/MyMath.pdb
+/home/briang/Work/ARVR/alu-csharp/csharp-tdd/0-add/MyMath/obj/Debug/netstandard2.0/MyMath.dll
+/home/briang/Work/ARVR/alu-csharp/csharp-tdd/0-add/MyMath/obj/Debug/netstandard2.0/MyMath.pdb

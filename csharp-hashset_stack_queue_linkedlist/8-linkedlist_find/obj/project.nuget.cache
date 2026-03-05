@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+lacAjWyCP4=",
+  "dgSpecHash": "P6jRAhqK9WWww/7/Dnks9ZqQK6a9yi69bQ49gJRiEn1p8tYrhTzMw7YMvB7EnpCUQWObmgTc5URjydG9UCUl+A==",
   "success": true,
-  "projectFilePath": "\\\\wsl.localhost\\Ubuntu\\home\\briang\\Work\\ARVR\\alu-csharp\\csharp-hashset_stack_queue_linkedlist\\8-linkedlist_find\\8-linkedlist_find.csproj",
+  "projectFilePath": "/home/briang/Work/ARVR/alu-csharp/csharp-hashset_stack_queue_linkedlist/8-linkedlist_find/8-linkedlist_find.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

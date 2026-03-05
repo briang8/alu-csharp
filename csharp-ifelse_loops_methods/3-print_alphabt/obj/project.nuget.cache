@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qPI7+uYtJ6E=",
+  "dgSpecHash": "MxpEccq9WRFmAXx9Zmj9ECCRefQtCwAZzzwFXnp14L4XLAGGvCqaMMrXoV4lRKz+dY9ecZ21HJAzRXh+DexLqw==",
   "success": true,
-  "projectFilePath": "\\\\wsl.localhost\\Ubuntu\\home\\briang\\Work\\ARVR\\alu-csharp\\csharp-ifelse_loops_methods\\3-print_alphabt\\3-print_alphabt.csproj",
+  "projectFilePath": "/home/briang/Work/ARVR/alu-csharp/csharp-ifelse_loops_methods/3-print_alphabt/3-print_alphabt.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

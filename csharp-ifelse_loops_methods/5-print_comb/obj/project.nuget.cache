@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZpyJIfQVt1c=",
+  "dgSpecHash": "H3f3zXJRgMFljeT4TcaiSW4XT1QPWT2WdAWA/ysGENLfcVLbGyHUts26cDYRnaqnvWxqziSmQ3tNHr7KFahkVg==",
   "success": true,
-  "projectFilePath": "\\\\wsl.localhost\\Ubuntu\\home\\briang\\Work\\ARVR\\alu-csharp\\csharp-ifelse_loops_methods\\5-print_comb\\5-print_comb.csproj",
+  "projectFilePath": "/home/briang/Work/ARVR/alu-csharp/csharp-ifelse_loops_methods/5-print_comb/5-print_comb.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
