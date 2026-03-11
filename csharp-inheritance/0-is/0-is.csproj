@@ -1,0 +1,10 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Library</OutputType>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+    <RootNamespace>_0_is</RootNamespace>
+    <DocumentationFile>bin\Debug\netcoreapp2.1\0-is.xml</DocumentationFile>
+  </PropertyGroup>
+
+</Project>

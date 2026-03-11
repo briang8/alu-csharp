@@ -1,0 +1,64 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/briang/Work/ARVR/alu-csharp/csharp-inheritance/0-is/0-is.csproj": {}
+  },
+  "projects": {
+    "/home/briang/Work/ARVR/alu-csharp/csharp-inheritance/0-is/0-is.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/briang/Work/ARVR/alu-csharp/csharp-inheritance/0-is/0-is.csproj",
+        "projectName": "0-is",
+        "projectPath": "/home/briang/Work/ARVR/alu-csharp/csharp-inheritance/0-is/0-is.csproj",
+        "packagesPath": "/home/briang/.nuget/packages/",
+        "outputPath": "/home/briang/Work/ARVR/alu-csharp/csharp-inheritance/0-is/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/briang/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "targetAlias": "netcoreapp2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "targetAlias": "netcoreapp2.1",
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/home/briang/dotnet/sdk/7.0.119/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
