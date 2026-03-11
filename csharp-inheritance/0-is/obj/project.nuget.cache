@@ -1,16 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "AWS8RIoD+YjepdZnSOLsVQKSwUKPR1qliLzRjsbhpA5CuYWCIxQiDcIpb3gJZ8Hqd3iPUuHZEbMIUkhtl5b6ow==",
+  "dgSpecHash": "GtTSiT7Z1sz/vaOjV0nqoXj3BtcDwnpQ2YGxW1oMpgxnK5CpUJGiiKB03bwdZQxuYWOCeiBZxEac7WaU7NCJfw==",
   "success": true,
   "projectFilePath": "/home/briang/Work/ARVR/alu-csharp/csharp-inheritance/0-is/0-is.csproj",
-  "expectedPackageFiles": [
-    "/home/briang/.nuget/packages/microsoft.netcore.app/2.1.0/microsoft.netcore.app.2.1.0.nupkg.sha512",
-    "/home/briang/.nuget/packages/microsoft.netcore.dotnetapphost/2.1.0/microsoft.netcore.dotnetapphost.2.1.0.nupkg.sha512",
-    "/home/briang/.nuget/packages/microsoft.netcore.dotnethostpolicy/2.1.0/microsoft.netcore.dotnethostpolicy.2.1.0.nupkg.sha512",
-    "/home/briang/.nuget/packages/microsoft.netcore.dotnethostresolver/2.1.0/microsoft.netcore.dotnethostresolver.2.1.0.nupkg.sha512",
-    "/home/briang/.nuget/packages/microsoft.netcore.platforms/2.1.0/microsoft.netcore.platforms.2.1.0.nupkg.sha512",
-    "/home/briang/.nuget/packages/microsoft.netcore.targets/2.1.0/microsoft.netcore.targets.2.1.0.nupkg.sha512",
-    "/home/briang/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }
