@@ -1,0 +1,71 @@
+{
+  "format": 1,
+  "restore": {
+    "d:\\Cloning\\alu-csharp\\csharp-interfaces\\2-doors\\2-doors.csproj": {}
+  },
+  "projects": {
+    "d:\\Cloning\\alu-csharp\\csharp-interfaces\\2-doors\\2-doors.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "d:\\Cloning\\alu-csharp\\csharp-interfaces\\2-doors\\2-doors.csproj",
+        "projectName": "2-doors",
+        "projectPath": "d:\\Cloning\\alu-csharp\\csharp-interfaces\\2-doors\\2-doors.csproj",
+        "packagesPath": "C:\\Users\\UMWAMI\\.nuget\\packages\\",
+        "outputPath": "d:\\Cloning\\alu-csharp\\csharp-interfaces\\2-doors\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\UMWAMI\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "framework": "net7.0",
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "10.0.300"
+      },
+      "frameworks": {
+        "net7.0": {
+          "framework": "net7.0",
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
